@@ -1,6 +1,6 @@
 {
   "name": "calculadora-matematica-tdd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "calculadora.js",
   "scripts": {
     "test": "jest"
