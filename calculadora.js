@@ -7,7 +7,7 @@ class Calculadora {
         return a - b;
     }
 
-    multiplication(a, b) {
+    multiplicar(a, b) {
         return a * b;
     }
 
