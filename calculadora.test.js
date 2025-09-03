@@ -7,11 +7,11 @@ describe('Calculadora', () => {
         calculadora = new Calculadora();
     });
 
-    test('La suma de 1 y 2 debe ser 3', () => {
+    test('La suma de 1 y 2 debe resultar en 3', () => {
         expect(calculadora.suma(1, 2)).toBe(3);
     });
 
-    test('La suma de -1 y -2 debe ser -3', () => {
+    test('La suma de -1 y -2 debe resultar en -3', () => {
         expect(calculadora.suma(-1, -2)).toBe(-3);
     });
 
